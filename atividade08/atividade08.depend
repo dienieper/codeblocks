@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623174630 source:c:\users\pc\desktop\projeto faculdade\atividade08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
